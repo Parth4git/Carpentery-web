@@ -9,6 +9,7 @@ import Portifolio from "./Component/Portifolio";
 import Testimonial from "./Component/Testimonial";
 import ContactUs from "./Component/ContactUs";
 import Footer from "./Component/Footer";
+import Filler from "./Component/Filler";
 
 function App() {
   return (
@@ -18,10 +19,11 @@ function App() {
       <Feature />
       <About />
       <Services />
+      <Filler />
       <ChooseUs />
       <Portifolio />
-      <Testimonial />
       <ContactUs />
+      <Testimonial />
       <Footer />
     </>
   );
