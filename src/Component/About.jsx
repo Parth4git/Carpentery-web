@@ -19,11 +19,9 @@ const About = () => {
             We Provide The Beauty of Your Home
           </h2>
           <p className="text-gray-600 mb-6 font-sans text-lg">
-            At Gunjan Technical Services, we specialize in high-quality fit-out
-            solutions tailored to transform commercial and residential spaces
-            across the UAE. With a commitment to precision, innovation, and
-            efficiency, we bring your vision to life, ensuring seamless
-            execution from concept to completion.
+            At Top Knot, we believe in the power of collaboration. Whether you
+            have a clear vision or need guidance, our team is here to help you
+            every step of the way.
           </p>
           <div className="flex flex-col md:flex-row gap-6 mb-4">
             <ul className="text-gray-700 space-y-3 mb-4 font-sans">
